@@ -1,0 +1,15 @@
+.mystyle
+{
+    background-color: #cdc0b0;
+    color:red;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.parastyle
+{
+    color:green;
+    font-family: arial;
+    font-size:36px;
+    text-align: center;
+}
